@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm yyttwo
 
-<!--
-**yyttwo/yyttwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **PCKB — Personal Code Knowledge Base**.
 
-Here are some ideas to get you started:
+PCKB turns code you write, learn, and collect into a searchable personal knowledge base. It is a local-first macOS app for Apple Silicon, currently available as a Public Preview.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### PCKB
+
+- Organize reusable code with Projects, tags, favorites, and learning status
+- Find it again with full-text and optional semantic search
+- Discover related code and keep learning notes alongside it
+- Use optional Ollama, DeepSeek, or Qwen AI
+- Create and restore local backups
+
+[View PCKB](https://github.com/yyttwo/personal-code-knowledge-base-releases) · [Download v0.4.0 Public Preview](https://github.com/yyttwo/personal-code-knowledge-base-releases/releases/tag/v0.4.0)
+
+![PCKB main library, shown with public demo data](https://raw.githubusercontent.com/yyttwo/personal-code-knowledge-base-releases/main/screenshots/public/01-main-library.png)
+
+> PCKB 是一个 Local-first 的个人代码知识库，用来整理、搜索、学习和复用自己积累的代码。
+
+PCKB is under active development. The [public repository](https://github.com/yyttwo/personal-code-knowledge-base-releases) contains binary releases and documentation; the core source code is currently private. [中文介绍](https://github.com/yyttwo/personal-code-knowledge-base-releases/blob/main/README.zh-CN.md)
